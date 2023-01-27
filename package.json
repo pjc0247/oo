@@ -1,0 +1,13 @@
+{
+  "name": "oo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Park June Chul <pjc0247@naver.com>",
+  "license": "MIT",
+  "bin": {
+    "oo": "./bin/oo.js"
+  },
+  "dependencies": {
+    "named-mutex": "^1.0.4"
+  }
+}
